@@ -1,0 +1,22 @@
+body {
+    background-image: url(../assets/images/background.jpg);
+    background-size: 100%;
+}
+
+#perfil {
+    border: white 5px solid;
+    margin-top: 100px;
+}
+
+.perfil {
+    font-stretch: expanded;
+    font-size: larger;
+    
+}
+
+h1,h2{
+    font-family: 'MuseoModerno',
+    cursive;
+    -webkit-text-stroke: 3px #2C3E50;
+    color: white;
+}
